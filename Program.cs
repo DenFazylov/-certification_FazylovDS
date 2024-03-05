@@ -29,3 +29,19 @@ string [] Array(string [] Array) //Объявление функции запо�
   }
   return newArray;
 }
+
+
+void printArray(string [] Array) //Функция отображения массива
+{
+    Console.Write("[");
+    for (int i = 0;i<Array.Length;i++)
+    {
+     if (i==Array.Length-1)
+        {
+            Console.Write($"'{Array[i]}'");
+        }
+        else
+        Console.Write($"'{Array[i]}', ");
+    }
+    Console.Write("]");
+}
