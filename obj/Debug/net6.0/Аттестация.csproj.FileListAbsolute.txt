@@ -1,0 +1,15 @@
+/Users/fazylovdenis/Downloads/Аттестация/obj/Debug/net6.0/Аттестация.csproj.AssemblyReference.cache
+/Users/fazylovdenis/Downloads/Аттестация/obj/Debug/net6.0/Аттестация.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazylovdenis/Downloads/Аттестация/obj/Debug/net6.0/Аттестация.AssemblyInfoInputs.cache
+/Users/fazylovdenis/Downloads/Аттестация/obj/Debug/net6.0/Аттестация.AssemblyInfo.cs
+/Users/fazylovdenis/Downloads/Аттестация/obj/Debug/net6.0/Аттестация.csproj.CoreCompileInputs.cache
+/Users/fazylovdenis/Downloads/Аттестация/bin/Debug/net6.0/Аттестация
+/Users/fazylovdenis/Downloads/Аттестация/bin/Debug/net6.0/Аттестация.deps.json
+/Users/fazylovdenis/Downloads/Аттестация/bin/Debug/net6.0/Аттестация.runtimeconfig.json
+/Users/fazylovdenis/Downloads/Аттестация/bin/Debug/net6.0/Аттестация.dll
+/Users/fazylovdenis/Downloads/Аттестация/bin/Debug/net6.0/Аттестация.pdb
+/Users/fazylovdenis/Downloads/Аттестация/obj/Debug/net6.0/Аттестация.dll
+/Users/fazylovdenis/Downloads/Аттестация/obj/Debug/net6.0/refint/Аттестация.dll
+/Users/fazylovdenis/Downloads/Аттестация/obj/Debug/net6.0/Аттестация.pdb
+/Users/fazylovdenis/Downloads/Аттестация/obj/Debug/net6.0/Аттестация.genruntimeconfig.cache
+/Users/fazylovdenis/Downloads/Аттестация/obj/Debug/net6.0/ref/Аттестация.dll
