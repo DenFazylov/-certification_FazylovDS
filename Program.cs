@@ -45,3 +45,7 @@ void printArray(string [] Array) //Функция отображения мас�
     }
     Console.Write("]");
 }
+
+
+string [] arr = {"134", "167", "-2", "computer science"};
+printArray(Array(arr));
